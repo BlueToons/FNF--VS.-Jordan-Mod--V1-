@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Jordan_Dialogue.png"><SubTexture name="Jordan_Dialogue idle0000" x="0" y="0" width="904" height="804" frameX="0" frameY="0" frameWidth="904" frameHeight="804" />
+<SubTexture name="Jordan_Dialogue idle0001" x="904" y="0" width="904" height="804" frameX="0" frameY="0" frameWidth="904" frameHeight="804" />
+<SubTexture name="Jordan_Dialogue idle0002" x="1808" y="0" width="904" height="804" frameX="0" frameY="0" frameWidth="904" frameHeight="804" />
+<SubTexture name="Jordan_Dialogue idle0003" x="2712" y="0" width="904" height="804" frameX="0" frameY="0" frameWidth="904" frameHeight="804" />
+<SubTexture name="Jordan_Dialogue idle0004" x="3616" y="0" width="904" height="804" frameX="0" frameY="0" frameWidth="904" frameHeight="804" />
+<SubTexture name="Jordan_Dialogue idle0005" x="4520" y="0" width="904" height="804" frameX="0" frameY="0" frameWidth="904" frameHeight="804" />
+<SubTexture name="Jordan_Dialogue idle0006" x="0" y="804" width="904" height="804" frameX="0" frameY="0" frameWidth="904" frameHeight="804" />
+<SubTexture name="Jordan_Dialogue idle0007" x="904" y="804" width="904" height="804" frameX="0" frameY="0" frameWidth="904" frameHeight="804" />
+<SubTexture name="Jordan_Dialogue talkloop0000" x="1808" y="804" width="904" height="804" frameX="0" frameY="0" frameWidth="904" frameHeight="804" />
+<SubTexture name="Jordan_Dialogue talkloop0001" x="2712" y="804" width="904" height="804" frameX="0" frameY="0" frameWidth="904" frameHeight="804" />
+<SubTexture name="Jordan_Dialogue talkloop0002" x="3616" y="804" width="904" height="804" frameX="0" frameY="0" frameWidth="904" frameHeight="804" />
+<SubTexture name="Jordan_Dialogue talkloop0003" x="4520" y="804" width="904" height="804" frameX="0" frameY="0" frameWidth="904" frameHeight="804" />
+<SubTexture name="Jordan_Dialogue shock talkloop0000" x="0" y="1608" width="904" height="804" frameX="0" frameY="0" frameWidth="904" frameHeight="804" />
+<SubTexture name="Jordan_Dialogue shock talkloop0001" x="904" y="1608" width="904" height="804" frameX="0" frameY="0" frameWidth="904" frameHeight="804" />
+<SubTexture name="Jordan_Dialogue shock talkloop0002" x="1808" y="1608" width="904" height="804" frameX="0" frameY="0" frameWidth="904" frameHeight="804" />
+<SubTexture name="Jordan_Dialogue shock talkloop0003" x="2712" y="1608" width="904" height="804" frameX="0" frameY="0" frameWidth="904" frameHeight="804" />
+<SubTexture name="Jordan_Dialogue shock loop0000" x="3616" y="1608" width="904" height="804" frameX="0" frameY="0" frameWidth="904" frameHeight="804" />
+<SubTexture name="Jordan_Dialogue shock loop0001" x="4520" y="1608" width="904" height="804" frameX="0" frameY="0" frameWidth="904" frameHeight="804" />
+<SubTexture name="Jordan_Dialogue shock loop0002" x="0" y="2412" width="904" height="804" frameX="0" frameY="0" frameWidth="904" frameHeight="804" />
+<SubTexture name="Jordan_Dialogue shock loop0003" x="904" y="2412" width="904" height="804" frameX="0" frameY="0" frameWidth="904" frameHeight="804" />
+<SubTexture name="Jordan_Dialogue yell talkloop0000" x="1808" y="2412" width="904" height="804" frameX="0" frameY="0" frameWidth="904" frameHeight="804" />
+<SubTexture name="Jordan_Dialogue yell talkloop0001" x="2712" y="2412" width="904" height="804" frameX="0" frameY="0" frameWidth="904" frameHeight="804" />
+<SubTexture name="Jordan_Dialogue yell talkloop0002" x="3616" y="2412" width="904" height="804" frameX="0" frameY="0" frameWidth="904" frameHeight="804" />
+<SubTexture name="Jordan_Dialogue yell talkloop0003" x="4520" y="2412" width="904" height="804" frameX="0" frameY="0" frameWidth="904" frameHeight="804" />
+<SubTexture name="Jordan_Dialogue yell loop0000" x="0" y="3216" width="904" height="804" frameX="0" frameY="0" frameWidth="904" frameHeight="804" />
+<SubTexture name="Jordan_Dialogue yell loop0001" x="904" y="3216" width="904" height="804" frameX="0" frameY="0" frameWidth="904" frameHeight="804" />
+<SubTexture name="Jordan_Dialogue yell loop0002" x="1808" y="3216" width="904" height="804" frameX="0" frameY="0" frameWidth="904" frameHeight="804" />
+<SubTexture name="Jordan_Dialogue yell loop0003" x="2712" y="3216" width="904" height="804" frameX="0" frameY="0" frameWidth="904" frameHeight="804" />
+<SubTexture name="Jordan_Dialogue point talkloop0000" x="3616" y="3216" width="904" height="804" frameX="0" frameY="0" frameWidth="904" frameHeight="804" />
+<SubTexture name="Jordan_Dialogue point talkloop0001" x="4520" y="3216" width="904" height="804" frameX="0" frameY="0" frameWidth="904" frameHeight="804" />
+<SubTexture name="Jordan_Dialogue point talkloop0002" x="0" y="4020" width="904" height="804" frameX="0" frameY="0" frameWidth="904" frameHeight="804" />
+<SubTexture name="Jordan_Dialogue point talkloop0003" x="904" y="4020" width="904" height="804" frameX="0" frameY="0" frameWidth="904" frameHeight="804" />
+<SubTexture name="Jordan_Dialogue point loop0000" x="1808" y="4020" width="904" height="804" frameX="0" frameY="0" frameWidth="904" frameHeight="804" />
+<SubTexture name="Jordan_Dialogue point loop0001" x="2712" y="4020" width="904" height="804" frameX="0" frameY="0" frameWidth="904" frameHeight="804" />
+<SubTexture name="Jordan_Dialogue point loop0002" x="3616" y="4020" width="904" height="804" frameX="0" frameY="0" frameWidth="904" frameHeight="804" />
+<SubTexture name="Jordan_Dialogue point loop0003" x="4520" y="4020" width="904" height="804" frameX="0" frameY="0" frameWidth="904" frameHeight="804" />
+</TextureAtlas>

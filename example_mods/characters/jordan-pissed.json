@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "JORDAN-PISSED IDLE"
+		},
+		{
+			"offsets": [
+				-1,
+				203
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "JORDAN-PISSED DOWN"
+		},
+		{
+			"offsets": [
+				-1,
+				274
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "JORDAN-PISSED UP"
+		},
+		{
+			"offsets": [
+				37,
+				242
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "JORDAN-PISSED LEFT"
+		},
+		{
+			"offsets": [
+				-38,
+				241
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "JORDAN-PISSED RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				260
+			],
+			"anim": "shake",
+			"fps": 24,
+			"name": "JORDAN-PISSED SHAKE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/JORDAN-PISSED",
+	"position": [
+		-350,
+		-90
+	],
+	"healthicon": "jordan-pissed",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		180,
+		0
+	],
+	"camera_position": [
+		290,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

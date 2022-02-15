@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		-20,
+		70
+	],
+	"scale": 1.15,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				1,
+				1
+			],
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_name": "GF LOOP",
+			"idle_name": "GF LOOP"
+		},
+		{
+			"loop_name": "GF CONFUSED LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "GF CONFUSED LOOP",
+			"anim": "confused",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "GF EXCITED LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "GF EXCITED",
+			"anim": "excited",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "GF SHOCK LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "GF SHOCK LOOP",
+			"anim": "shocked",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "GF DEMON LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "GF DEMON LOOP",
+			"anim": "demon",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "GF_Dialogue"
+}

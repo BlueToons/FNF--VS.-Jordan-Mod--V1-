@@ -1,0 +1,48 @@
+{
+	"storyName": "JORDAN",
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Jordan",
+			"jordan",
+			[
+				255,
+				153,
+				0
+			]
+		],
+		[
+			"Trauma",
+			"jordan-angry",
+			[
+				235,
+				133,
+				60
+			]
+		],
+		[
+			"Demented",
+			"jordan-pissed",
+			[
+				255,
+				115,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"jordan",
+		"bf",
+		"gf"
+	],
+	"weekName": "WEEK J"
+}

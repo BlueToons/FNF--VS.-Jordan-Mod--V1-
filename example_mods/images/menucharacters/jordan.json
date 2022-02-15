@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Menu_Jordan M Jordan Idle",
+	"image": "Menu_Jordan",
+	"position": [
+		420,
+		340
+	],
+	"scale": 0.35,
+	"confirm_anim": "M Dad Idle"
+}

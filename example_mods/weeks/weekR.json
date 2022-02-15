@@ -1,0 +1,30 @@
+{
+	"storyName": "???",
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekK",
+	"startUnlocked": false,
+	"songs": [
+		[
+			"rayman",
+			"joey",
+			[
+				60,
+				155,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"jordan",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week"
+}

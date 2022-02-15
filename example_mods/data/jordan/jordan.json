@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				10
+			],
+			"anim": "idle",
+			"fps": 18,
+			"name": "JORDAN IDLE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				8
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "JORDAN RIGHT"
+		},
+		{
+			"offsets": [
+				-10,
+				11
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "JORDAN DOWN"
+		},
+		{
+			"offsets": [
+				35,
+				5
+			],
+			"loop": false,
+			"fps": 21,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "JORDAN LEFT"
+		},
+		{
+			"offsets": [
+				24,
+				9
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [],
+			"name": "JORDAN UP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/JORDAN",
+	"position": [
+		-210,
+		-140
+	],
+	"healthicon": "jordan",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		162,
+		6
+	],
+	"camera_position": [
+		170,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

@@ -1,0 +1,30 @@
+{
+	"storyName": "THE FINALE",
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekJ",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"jordan",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Fired Up Fury",
+			"jordan-phase4",
+			[
+				135,
+				53,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "END"
+}

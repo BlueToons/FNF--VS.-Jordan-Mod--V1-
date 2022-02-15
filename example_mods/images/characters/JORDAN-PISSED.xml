@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="JORDAN-PISSED.png"><SubTexture name="JORDAN-PISSED IDLE0000" x="0" y="0" width="1204" height="1204" frameX="0" frameY="0" frameWidth="1204" frameHeight="1204" />
+<SubTexture name="JORDAN-PISSED IDLE0001" x="1204" y="0" width="1204" height="1204" frameX="0" frameY="0" frameWidth="1204" frameHeight="1204" />
+<SubTexture name="JORDAN-PISSED IDLE0002" x="2408" y="0" width="1204" height="1204" frameX="0" frameY="0" frameWidth="1204" frameHeight="1204" />
+<SubTexture name="JORDAN-PISSED IDLE0003" x="3612" y="0" width="1204" height="1204" frameX="0" frameY="0" frameWidth="1204" frameHeight="1204" />
+<SubTexture name="JORDAN-PISSED IDLE0004" x="4816" y="0" width="1204" height="1204" frameX="0" frameY="0" frameWidth="1204" frameHeight="1204" />
+<SubTexture name="JORDAN-PISSED IDLE0005" x="0" y="1204" width="1204" height="1204" frameX="0" frameY="0" frameWidth="1204" frameHeight="1204" />
+<SubTexture name="JORDAN-PISSED IDLE0006" x="1204" y="1204" width="1204" height="1204" frameX="0" frameY="0" frameWidth="1204" frameHeight="1204" />
+<SubTexture name="JORDAN-PISSED IDLE0007" x="2408" y="1204" width="1204" height="1204" frameX="0" frameY="0" frameWidth="1204" frameHeight="1204" />
+<SubTexture name="JORDAN-PISSED RIGHT0000" x="3612" y="1204" width="1204" height="1204" frameX="0" frameY="0" frameWidth="1204" frameHeight="1204" />
+<SubTexture name="JORDAN-PISSED RIGHT0001" x="4816" y="1204" width="1204" height="1204" frameX="0" frameY="0" frameWidth="1204" frameHeight="1204" />
+<SubTexture name="JORDAN-PISSED RIGHT0002" x="0" y="2408" width="1204" height="1204" frameX="0" frameY="0" frameWidth="1204" frameHeight="1204" />
+<SubTexture name="JORDAN-PISSED RIGHT0003" x="1204" y="2408" width="1204" height="1204" frameX="0" frameY="0" frameWidth="1204" frameHeight="1204" />
+<SubTexture name="JORDAN-PISSED LEFT0000" x="2408" y="2408" width="1204" height="1204" frameX="0" frameY="0" frameWidth="1204" frameHeight="1204" />
+<SubTexture name="JORDAN-PISSED LEFT0001" x="3612" y="2408" width="1204" height="1204" frameX="0" frameY="0" frameWidth="1204" frameHeight="1204" />
+<SubTexture name="JORDAN-PISSED LEFT0002" x="4816" y="2408" width="1204" height="1204" frameX="0" frameY="0" frameWidth="1204" frameHeight="1204" />
+<SubTexture name="JORDAN-PISSED LEFT0003" x="0" y="3612" width="1204" height="1204" frameX="0" frameY="0" frameWidth="1204" frameHeight="1204" />
+<SubTexture name="JORDAN-PISSED UP0000" x="1204" y="3612" width="1204" height="1204" frameX="0" frameY="0" frameWidth="1204" frameHeight="1204" />
+<SubTexture name="JORDAN-PISSED UP0001" x="2408" y="3612" width="1204" height="1204" frameX="0" frameY="0" frameWidth="1204" frameHeight="1204" />
+<SubTexture name="JORDAN-PISSED UP0002" x="3612" y="3612" width="1204" height="1204" frameX="0" frameY="0" frameWidth="1204" frameHeight="1204" />
+<SubTexture name="JORDAN-PISSED UP0003" x="4816" y="3612" width="1204" height="1204" frameX="0" frameY="0" frameWidth="1204" frameHeight="1204" />
+<SubTexture name="JORDAN-PISSED DOWN0000" x="0" y="4816" width="1204" height="1204" frameX="0" frameY="0" frameWidth="1204" frameHeight="1204" />
+<SubTexture name="JORDAN-PISSED DOWN0001" x="1204" y="4816" width="1204" height="1204" frameX="0" frameY="0" frameWidth="1204" frameHeight="1204" />
+<SubTexture name="JORDAN-PISSED DOWN0002" x="2408" y="4816" width="1204" height="1204" frameX="0" frameY="0" frameWidth="1204" frameHeight="1204" />
+<SubTexture name="JORDAN-PISSED DOWN0003" x="3612" y="4816" width="1204" height="1204" frameX="0" frameY="0" frameWidth="1204" frameHeight="1204" />
+<SubTexture name="JORDAN-PISSED SHAKE0000" x="4816" y="4816" width="1204" height="1204" frameX="0" frameY="0" frameWidth="1204" frameHeight="1204" />
+<SubTexture name="JORDAN-PISSED SHAKE0001" x="0" y="6020" width="1204" height="1204" frameX="0" frameY="0" frameWidth="1204" frameHeight="1204" />
+<SubTexture name="JORDAN-PISSED SHAKE0002" x="1204" y="6020" width="1204" height="1204" frameX="0" frameY="0" frameWidth="1204" frameHeight="1204" />
+<SubTexture name="JORDAN-PISSED SHAKE0003" x="2408" y="6020" width="1204" height="1204" frameX="0" frameY="0" frameWidth="1204" frameHeight="1204" />
+<SubTexture name="JORDAN-PISSED SHAKE0004" x="3612" y="6020" width="1204" height="1204" frameX="0" frameY="0" frameWidth="1204" frameHeight="1204" />
+<SubTexture name="JORDAN-PISSED SHAKE0005" x="4816" y="6020" width="1204" height="1204" frameX="0" frameY="0" frameWidth="1204" frameHeight="1204" />
+</TextureAtlas>

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				80,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "JORDAN-ANGRY IDLE"
+		},
+		{
+			"offsets": [
+				70,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "JORDAN-ANGRY DOWN"
+		},
+		{
+			"offsets": [
+				104,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "JORDAN-ANGRY UP"
+		},
+		{
+			"offsets": [
+				105,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "JORDAN-ANGRY LEFT"
+		},
+		{
+			"offsets": [
+				80,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "JORDAN-ANGRY RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "shake",
+			"fps": 24,
+			"name": "JORDAN-ANGRY SHAKE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/JORDAN-ANGRY",
+	"position": [
+		-130,
+		-130
+	],
+	"healthicon": "jordan-angry",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		102,
+		0
+	],
+	"camera_position": [
+		90,
+		10
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

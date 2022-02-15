@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				320
+			],
+			"anim": "idle",
+			"fps": 16,
+			"name": "JORDAN_PHASE4 idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				327
+			],
+			"anim": "singRIGHT",
+			"fps": 16,
+			"name": "JORDAN_PHASE4 right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				330
+			],
+			"anim": "singLEFT",
+			"fps": 16,
+			"name": "JORDAN_PHASE4 left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				320
+			],
+			"anim": "punch",
+			"fps": 18,
+			"name": "JORDAN_PHASE4 punch",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				320
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "JORDAN_PHASE4 up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				340
+			],
+			"anim": "singDOWN",
+			"fps": 19,
+			"name": "JORDAN_PHASE4 down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/JORDAN_PHASE4",
+	"position": [
+		-80,
+		190
+	],
+	"healthicon": "jordan-phase4",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		175,
+		0
+	],
+	"camera_position": [
+		-100,
+		-530
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

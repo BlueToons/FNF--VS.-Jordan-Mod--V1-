@@ -1,0 +1,63 @@
+{
+	"position": [
+		-890,
+		-180
+	],
+	"dialogue_pos": "right",
+	"scale": 0.75,
+	"image": "Jordan_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "Jordan_Dialogue idle",
+			"loop_name": "Jordan_Dialogue talkloop"
+		},
+		{
+			"loop_name": "Jordan_Dialogue shock talkloop",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Jordan_Dialogue shock loop",
+			"anim": "shock",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Jordan_Dialogue yell talkloop",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Jordan_Dialogue yell loop",
+			"anim": "yelling",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Jordan_Dialogue point talkloop",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Jordan_Dialogue point loop",
+			"anim": "pointing",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}
