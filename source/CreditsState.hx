@@ -25,11 +25,14 @@ class CreditsState extends MusicBeatState
 
 	private static var creditsStuff:Array<Dynamic> = [ //Name - Icon name - Description - Link - BG Color
 		['Jordan Modding Team'],
-		['BlueToons',			'bluetoons',		'Main Assets Creator, Main Coder and Musician',									'https://www.youtube.com/channel/UC4ISqaFUUjiLzTz1PI5EGZw',		0xFFFFDD33],
+		['BlueToons',			'bluetoons',		'Main Assets Creator, Main Coder and Musician',		'https://www.youtube.com/channel/UC4ISqaFUUjiLzTz1PI5EGZw',		0xFFFFDD33],
 		['Kory PROductions',	'koryproductions',	'Story Creator, Character Creator',				    'https://www.youtube.com/channel/UCLXwTI4NFMWvbe0qogckELA',		0xFFC30085],
 		['TheRandomMaskedKid',	'sky',				'Icons',											'https://www.youtube.com/channel/UCAFCz-MzpM8Ly4EyOk0hAoA',		0xFFFFDD33],
 		['Zomeone',				'some',				'Main Menu Design',				    				'https://www.youtube.com/channel/UCd1koTDMrfZT2MpSUq6kWIw',		0xFFC30085],
-		['Rose_drizzle',		'rose',				'Girlfriend Voice Actor',							'https://www.youtube.com/channel/UCd1koTDMrfZT2MpSUq6kWIw',		0xFFC30085],
+		['WaserByte',			'waser',			'Jordan Vocals',									'https://www.youtube.com/channel/UCPHELL17w9hcWlJH15FEmDQ',		0xFFC30085],
+		['Karry',				'karry',			'Recharter',										'https://www.youtube.com/channel/UCSSI7p3RPCWqxeI_RLlvjzg',		0xFFC30085],
+		['zxchfvll',			'roblx',			'Recharter',										'https://open.spotify.com/user/t6z4a1s9wje69fzjegpyiat2l',		0xFFC30085],
+		['SPACE',				'space',			'Playtester',										'https://www.youtube.com/channel/UCQr4LTOKbLWBglz-EJlL8sQ',		0xFFC30085],
 		['Psych Engine Team'],
 		['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',					'https://twitter.com/Shadow_Mario_',	0xFFFFDD33],
 		['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',				'https://twitter.com/river_oaken',		0xFFC30085],
